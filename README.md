@@ -26,7 +26,7 @@
 
 ## Setup
 
-- In the [Deliverables](https://github.com/LucaLonginotti00/Ing-sw-22-23/tree/main/deliverables) folder there are two multi-platform jar files, one to set the Server up, and the other one to start the Client.
+- In the [Deliverables](https://github.com/luca-longinotti/Ing-sw-22-23/tree/main/deliverables) folder there are two multi-platform jar files, one to set the Server up, and the other one to start the Client.
 
 - The Server can be run with the following command, as default it runs on port 1250:
     ```shell
