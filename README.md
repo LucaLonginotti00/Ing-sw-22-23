@@ -2,7 +2,7 @@
 
 - ###  Filippo Fini  ([@filippofini](https://github.com/filippofini)) <br> filippo.fini@mail.polimi.it
 - ###  Matteo Fiorentino ([@KingOjama](https://github.com/KingOjama)) <br> matteo.fiorentino@mail.polimi.it
-- ###  Luca Longinotti ([@LucaLonginotti](https://github.com/LucaLonginotti)) <br> luca.longinotti@mail.polimi.it
+- ###  Luca Longinotti ([@LucaLonginotti](https://github.com/LucaLonginotti00)) <br> luca.longinotti@mail.polimi.it
 
 # Eriantys
 
