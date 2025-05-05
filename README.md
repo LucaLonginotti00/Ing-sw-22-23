@@ -42,6 +42,6 @@
     - This command starts the command line interface.
 
 ## Rules
- * [Eriantys rules](https://www.craniocreations.it/wp-content/uploads/2021/11/Eriantys_ITA_bassa.pdf)
+ * [Eriantys rules](https://www.craniocreations.it/prodotto/eriantys)
 
 
